@@ -1,0 +1,10 @@
+﻿# CAD Files
+*.bak
+*.tmp
+*~
+*.autosave
+.*.swp
+*.FCStd1
+*.FCStd2
+*.step.bak
+*.gcode~
